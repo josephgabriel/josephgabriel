@@ -14,6 +14,6 @@
 
 ⭐️ **Sinta-se à vontade para explorar meus repositórios, dar uma estrela ou mandar um PR!**
 
-![Deploy](https://img.shields.io/badge/Deploy-success-brightgreen)
+![Deploy](https://img.shields.io/badge/Deploy-JoseGabriel-brightgreen)
 ![Build](https://img.shields.io/badge/Build-pending-blue)
 ![Erro](https://img.shields.io/badge/Erro-failed-red)
