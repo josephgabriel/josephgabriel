@@ -13,3 +13,11 @@
 </div>
 
 ⭐️ **Sinta-se à vontade para explorar meus repositórios, dar uma estrela ou mandar um PR!**
+
+```markdown
+<pre>
+🧩 Nome do Bloco
+────────────────────
+echo "Olá mundo"
+ls -la
+</pre>
