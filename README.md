@@ -14,15 +14,6 @@
 
 ⭐️ **Sinta-se à vontade para explorar meus repositórios, dar uma estrela ou mandar um PR!**
 
-<span style="display:inline-block; background-color:#ffcc00; color:#000; padding:6px 12px; margin:4px; border-radius:6px; font-weight:bold;">
-  🧩 Nome do Tijolo
+<span style="display:inline-block; background-color:##e7f3fe; color:##000; padding:6px 12px; margin:4px; border-radius:6px; font-weight:bold;">
+  💬 José Gabriel
 </span>
-
-<span style="display:inline-block; background-color:#28a745; color:#fff; padding:6px 12px; margin:4px; border-radius:6px; font-weight:bold;">
-  ✅ Instalado
-</span>
-
-<span style="display:inline-block; background-color:#f8f8f8; color:#f8f8f8; padding:6px 12px; margin:4px; border-radius:6px; font-weight:bold;">
-  ❌ Erro
-</span>
-
