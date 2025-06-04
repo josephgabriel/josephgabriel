@@ -16,6 +16,7 @@
 
 ![Deploy](https://img.shields.io/badge/Dev-JoseGabriel-brightgreen)
 ![Build](https://img.shields.io/badge/SO-ZorinOS-blue)
+![Build](https://img.shields.io/badge/Python-blue)
 ![Erro](https://img.shields.io/badge/Learning-Java-red)
 ![Erro](https://img.shields.io/badge/Learning-Javascript-red)
 ![Erro](https://img.shields.io/badge/Learning-HTML/CSS-red)
