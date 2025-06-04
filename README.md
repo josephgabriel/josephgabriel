@@ -15,6 +15,6 @@
 ⭐️ **Sinta-se à vontade para explorar meus repositórios, dar uma estrela ou mandar um PR!**
 
 <div style="background-color:#e7f3fe; padding:10px; border-left:5px solid #2196F3;">
-  <strong>ℹ️ Informação:</strong> Este é um bloco de informação.
+  <strong>ℹ️ Documentação:</strong> Leia os passos abaixo com atenção.
 </div>
 
