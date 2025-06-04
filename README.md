@@ -22,7 +22,7 @@
   ✅ Instalado
 </span>
 
-<span style="display:inline-block; background-color:#dc3545; color:#fff; padding:6px 12px; margin:4px; border-radius:6px; font-weight:bold;">
+<span style="display:inline-block; background-color:#f8f8f8; color:#fff; padding:6px 12px; margin:4px; border-radius:6px; font-weight:bold;">
   ❌ Erro
 </span>
 
