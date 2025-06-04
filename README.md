@@ -20,4 +20,8 @@
 ![Erro](https://img.shields.io/badge/Learning-Java-red)
 ![Erro](https://img.shields.io/badge/Learning-Javascript-red)
 ![Erro](https://img.shields.io/badge/Learning-HTML/CSS-red)
+![Erro](https://img.shields.io/badge/Learning-PHP-red)
+![Erro](https://img.shields.io/badge/Learning-C#/C++-red)
+![Erro](https://img.shields.io/badge/Learning-Springboot-red)
+![Erro](https://img.shields.io/badge/Learning-Docker-red)
 
