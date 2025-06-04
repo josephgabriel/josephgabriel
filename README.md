@@ -14,10 +14,9 @@
 
 ⭐️ **Sinta-se à vontade para explorar meus repositórios, dar uma estrela ou mandar um PR!**
 
-```markdown
-<pre>
-🧩 Nome do Bloco
-────────────────────
-echo "Olá mundo"
-ls -la
-</pre>
+<div style="border:1px solid #ccc; border-radius:5px; padding:10px;">
+  <strong>🔧 Bloco: Instalação</strong>
+  <pre>
+  pip install meu-pacote
+  </pre>
+</div>
