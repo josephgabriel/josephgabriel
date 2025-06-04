@@ -14,7 +14,15 @@
 
 ⭐️ **Sinta-se à vontade para explorar meus repositórios, dar uma estrela ou mandar um PR!**
 
-<div style="background-color:#e7f3fe; padding:10px; border-left:5px solid #2196F3;">
-  <strong>ℹ️ Documentação:</strong> Leia os passos abaixo com atenção.
-</div>
+<span style="display:inline-block; background-color:#ffcc00; color:#000; padding:6px 12px; margin:4px; border-radius:6px; font-weight:bold;">
+  🧩 Nome do Tijolo
+</span>
+
+<span style="display:inline-block; background-color:#28a745; color:#fff; padding:6px 12px; margin:4px; border-radius:6px; font-weight:bold;">
+  ✅ Instalado
+</span>
+
+<span style="display:inline-block; background-color:#dc3545; color:#fff; padding:6px 12px; margin:4px; border-radius:6px; font-weight:bold;">
+  ❌ Erro
+</span>
 
