@@ -14,9 +14,9 @@
 
 ⭐️ **Sinta-se à vontade para explorar meus repositórios, dar uma estrela ou mandar um PR!**
 
-![Deploy](https://img.shields.io/badge/Dev-JoseGabriel-brightgreen)
+![Deploy](https://img.shields.io/badge/Dev-JoseGabriel-yellow)
 ![Build](https://img.shields.io/badge/SO-ZorinOS-blue)
-![Build](https://img.shields.io/badge/Python-blue)
+![Build](https://img.shields.io/badge/Python-brightgreen)
 ![Erro](https://img.shields.io/badge/Learning-Java-red)
 ![Erro](https://img.shields.io/badge/Learning-Javascript-red)
 ![Erro](https://img.shields.io/badge/Learning-HTML/CSS-red)
