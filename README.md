@@ -6,10 +6,6 @@
 - 📚 Sempre aprendendo algo novo e melhorando meus projetos
 - ✉️ Contato: Email [josgabrielsoares825@gmail.com] ou via [LinkedIn](linkedin.com/in/josé-gabriel-soares-do-santos-73022833a)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jose&show_icons=true&theme=radical" />
-</div>
-
 📊 Estatísticas
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jose&show_icons=true&theme=tokyonight" />
