@@ -14,9 +14,7 @@
 
 ⭐️ **Sinta-se à vontade para explorar meus repositórios, dar uma estrela ou mandar um PR!**
 
-<div style="border:1px solid #ccc; border-radius:5px; padding:10px;">
-  <strong>🔧 Bloco: Instalação</strong>
-  <pre>
-  pip install meu-pacote
-  </pre>
+<div style="background-color:#e7f3fe; padding:10px; border-left:5px solid #2196F3;">
+  <strong>ℹ️ Informação:</strong> Este é um bloco de informação.
 </div>
+
