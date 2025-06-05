@@ -37,6 +37,6 @@
   Ferramentas de trabalho
 </span>
 
-  ![Build](https://img.shields.io/badge/VsCode-brightblue)
+  ![Build](https://img.shields.io/badge/VsCode-blue)
   ![Build](https://img.shields.io/badge/Pycharm-brightgreen)
   ![Build](https://img.shields.io/badge/Eclipse-orange)
