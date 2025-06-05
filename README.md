@@ -6,7 +6,7 @@
 - 🎓 Estudando Java ☕
 - 🚀 Explorando projetos com Python 
 - 📚 Sempre aprendendo algo novo e melhorando meus projetos
-- ✉️ Contato: Email [josgabrielsoares825@gmail.com] ou via Linkedin [linkedin.com/in/josé-gabriel-soares-do-santos-73022833a]
+- ✉️ Contato: Email [josgabrielsoares825@gmail.com] ou via Linkedin linkedin.com/in/josé-gabriel-soares-do-santos-73022833a
 
 📊 Estatísticas
 <div align="center">
