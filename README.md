@@ -16,6 +16,8 @@
 
 ![Deploy](https://img.shields.io/badge/Dev-JoseGabriel-yellow)
 ![Build](https://img.shields.io/badge/SO-ZorinOS-blue)
+![Build](https://img.shields.io/badge/Linux-purple)
+![Build](https://img.shields.io/badge/Ubuntu-orange)
 
 <span style="display:inline-block; background-color:#ffcc00; color:#000; padding:6px 12px; margin:4px; border-radius:6px; font-weight:bold;">
   🧩 Conhecimentos adquiridos e em processo 🛠
