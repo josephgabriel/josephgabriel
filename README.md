@@ -1,4 +1,4 @@
-<img src="https://external-preview.redd.it/Ja5R_a1FoMdmnoNp7zsq2dMpOAe9O9Hl_yUB4NKQ42k.jpg?auto=webp&s=de349b739d26a59c32f5ae5539f16c9e9c05bd29" alt=Banner width="800"/>
+<img src="https://external-preview.redd.it/Ja5R_a1FoMdmnoNp7zsq2dMpOAe9O9Hl_yUB4NKQ42k.jpg?auto=webp&s=de349b739d26a59c32f5ae5539f16c9e9c05bd29" alt=Banner width="800" height="100"/>
 
 ### Olá! 👋 Sou José Gabriel Soares dos Santos e bem vindo ao meu perfil no GitHub!!
 
