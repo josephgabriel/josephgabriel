@@ -20,6 +20,7 @@
 <span style="display:inline-block; background-color:#ffcc00; color:#000; padding:6px 12px; margin:4px; border-radius:6px; font-weight:bold;">
   🧩 Conhecimentos adquiridos e em processo 🛠
 </span>
+
 ![Build](https://img.shields.io/badge/Python-brightgreen)
 ![Erro](https://img.shields.io/badge/Learning-Java-red)
 ![Erro](https://img.shields.io/badge/Learning-Javascript-red)
