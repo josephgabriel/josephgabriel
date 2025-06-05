@@ -1,4 +1,4 @@
-![Logo do Projeto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEEWgjhKydK27yUi8sormgKmAT6t4a-mRt91vG3afPTI2OB2mGfvqyI_ZHkiU2tdt1cpE&usqp=CAU)
+![Logo do Projeto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGZhWF4IabwO0pKFUnGVdcqya24X-Sp848A&s)
 
 ### Olá! 👋 Sou José Gabriel Soares dos Santos e bem vindo ao meu perfil no GitHub!!
 
