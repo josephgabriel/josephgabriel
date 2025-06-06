@@ -42,3 +42,5 @@
   ![Build](https://img.shields.io/badge/VsCode-blue)
   ![Build](https://img.shields.io/badge/Pycharm-brightgreen)
   ![Build](https://img.shields.io/badge/Eclipse-orange)
+  ![Build](https://img.shields.io/badge/MySQL-blue)
+  
