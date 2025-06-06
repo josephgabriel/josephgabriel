@@ -27,6 +27,7 @@
 </span>
 
 ![Build](https://img.shields.io/badge/Python-brightgreen)
+![Build](https://img.shields.io/badge/SQL-blue)
 ![Erro](https://img.shields.io/badge/Learning-Java-red)
 ![Erro](https://img.shields.io/badge/Learning-Javascript-red)
 ![Erro](https://img.shields.io/badge/Learning-HTML/CSS-red)
