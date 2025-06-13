@@ -9,10 +9,7 @@
 - ✉️ Contato: Email [josgabrielsoares825@gmail.com]
 
 📊 Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jose&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose&layout=compact&theme=tokyonight" />
-</div>
+
 
 ⭐️ **Sinta-se à vontade para explorar meus repositórios, dar uma estrela ou mandar um PR!**
 
