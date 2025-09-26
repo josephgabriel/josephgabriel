@@ -1,6 +1,6 @@
 <img src="https://external-preview.redd.it/Ja5R_a1FoMdmnoNp7zsq2dMpOAe9O9Hl_yUB4NKQ42k.jpg?auto=webp&s=de349b739d26a59c32f5ae5539f16c9e9c05bd29" alt=Banner width="800" height="200"/>
 
-# 👋 Olá, eu sou o José Gabriel  
+# 👋 Olá, eu sou o José Gabriel  #Opentowork
 
 🎓 Estudante do **4º semestre de Ciência da Computação** pelo Instituto Federal do Ceará.  
 💡 Apaixonado por **Ciência de Dados** e buscando oportunidades de **estágio** para aplicar e expandir meus conhecimentos.  
