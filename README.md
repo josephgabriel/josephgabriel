@@ -1,52 +1,33 @@
 <img src="https://external-preview.redd.it/Ja5R_a1FoMdmnoNp7zsq2dMpOAe9O9Hl_yUB4NKQ42k.jpg?auto=webp&s=de349b739d26a59c32f5ae5539f16c9e9c05bd29" alt=Banner width="800" height="200"/>
 
-### Olá! 👋 Sou José Gabriel Soares dos Santos e bem vindo ao meu perfil no GitHub!!
+# 👋 Olá, eu sou o José Gabriel  
 
-💻 Sobre mim
-- 🎓 Estudando Java ☕
-- 🚀 Explorando projetos com Python 
-- 📚 Sempre aprendendo algo novo e melhorando meus projetos
-- ✉️ Contato: Email [josgabrielsoares825@gmail.com]
+🎓 Estudante do **4º semestre de Ciência da Computação** pelo Instituto Federal do Ceará.  
+💡 Apaixonado por **Ciência de Dados** e buscando oportunidades de **estágio** para aplicar e expandir meus conhecimentos.  
 
-📊 Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jose&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose&layout=compact&theme=tokyonight" />
-</div>
+---
 
-⭐️ **Sinta-se à vontade para explorar meus repositórios, dar uma estrela ou mandar um PR!**
+## 🚀 Tecnologias e Ferramentas
+- 🐍 **Python** (Pandas, NumPy, Scikit-Learn)  
+- 🗄️ **SQL** (consultas, modelagem e integração com Python)  
+- 📊 **Estatística aplicada à análise de dados**  
+- 📈 **Power BI** | 📊 **Tableau** | 📑 **Excel**  
 
-![Deploy](https://img.shields.io/badge/Dev-JoseGabriel-yellow)
-![Build](https://img.shields.io/badge/SO-ZorinOS-blue)
-![Build](https://img.shields.io/badge/Linux-purple)
-![Build](https://img.shields.io/badge/Ubuntu-orange)
-![Build](https://img.shields.io/badge/Windows-blue)
+---
 
-<span style="display:inline-block; background-color:#ffcc00; color:#000; padding:6px 12px; margin:4px; border-radius:6px; font-weight:bold;">
-  🧩 Conhecimentos adquiridos e em processo 🛠
-</span>
+## 📌 Sobre Mim
+- 🎯 Interesse em **análise de dados, machine learning e visualização interativa**  
+- 🔎 Sempre explorando novas formas de transformar dados em insights valiosos  
+- 📚 Atualmente focado em consolidar projetos práticos de Ciência de Dados no meu GitHub  
 
-![Build](https://img.shields.io/badge/Python-brightgreen)
-![Build](https://img.shields.io/badge/SQL-blue)
-![Erro](https://img.shields.io/badge/Learning-Java-red)
-![Erro](https://img.shields.io/badge/Javascript-brightgreen)
-![Erro](https://img.shields.io/badge/HTML/CSS-brightgreen)
-![Erro](https://img.shields.io/badge/Learning-PHP-red)
-![Erro](https://img.shields.io/badge/Learning-Csharp-red)
-![Erro](https://img.shields.io/badge/Learning-Springboot-red)
-![Erro](https://img.shields.io/badge/Learning-Docker-red)
-![Erro](https://img.shields.io/badge/Learning-Angular-red)
-![Erro](https://img.shields.io/badge/Learning-.NET-red)
-![Erro](https://img.shields.io/badge/Learning-ReactJs-red)
+---
 
-<span style="display:inline-block; background-color:#ffcc00; color:#000; padding:6px 12px; margin:4px; border-radius:6px; font-weight:bold;">
- 🦺 Ferramentas de trabalho 🧤
-</span>
+## 🌐 Vamos nos conectar!
+- 💼 [LinkedIn](www.linkedin.com/in/josé-gabriel-soares-do-santos-73022833a)  
+- 📧 **josgabrielsoares825@gmail.com**  
 
-  ![Build](https://img.shields.io/badge/VsCode-blue)
-  ![Build](https://img.shields.io/badge/Pycharm-brightgreen)
-  ![Build](https://img.shields.io/badge/Eclipse-orange)
-  ![Build](https://img.shields.io/badge/MySQL-blue)
-  ![Build](https://img.shields.io/badge/Docker-darkblue)
-  ![Build](https://img.shields.io/badge/Figma-purple)
+---
+
+”In God we trust. All others must bring data.” - W. Edwards Deming 
+
   
