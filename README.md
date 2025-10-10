@@ -3,7 +3,7 @@
 # 👋 Olá, eu sou o José Gabriel  #Opentowork
 
 🎓 Estudante do **4º semestre de Ciência da Computação** pelo Instituto Federal do Ceará.  
-💡 Apaixonado por **Ciência de Dados** e buscando oportunidades de **estágio** para aplicar e expandir meus conhecimentos.  
+💡 Apaixonado por **Ciência de Dados** e buscando oportunidades para aplicar e expandir meus conhecimentos.  
 
 ---
 
