@@ -23,7 +23,7 @@
 ---
 
 ## 🌐 Vamos nos conectar!
-- 💼 [LinkedIn](www.linkedin.com/in/josé-gabriel-soares-do-santos-73022833a)  
+- 💼 LinkedIn(www.linkedin.com/in/josé-gabriel-soares-do-santos-73022833a)
 - 📧 **josgabrielsoares825@gmail.com**  
 
 ---
